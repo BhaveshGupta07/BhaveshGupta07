@@ -17,9 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 🔥 Mojo
 
 ## 📫 Let's Connect
-
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/bhavesh-gupta07/)
+💼 LinkedIn: [Mylinkdin](https://www.linkedin.com/in/bhavesh-gupta07/)
 
 ## ✨ Fun Facts
 
